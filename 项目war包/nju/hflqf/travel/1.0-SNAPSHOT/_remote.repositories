@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Nov 10 00:39:14 CST 2021
+travel-1.0-SNAPSHOT.war>=
+travel-1.0-SNAPSHOT.pom>=
