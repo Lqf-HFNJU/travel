@@ -3,14 +3,14 @@
 
 #### 技术选型：
 
-  *前端：
-    *html+css+javascript+jquery
-  *后端：
-    *原生javaweb+springJDBC+Druid
-  *数据库：
-    *mysql+redis
-  *服务器：
-    *tomcat7
+  * 前端：
+    * html+css+javascript+jquery
+  * 后端：
+    * 原生javaweb+springJDBC+Druid
+  * 数据库：
+    * mysql+redis
+  * 服务器：
+    * tomcat7
 
 ##### 由于在完成项目时使用了我自己手写的工具类jar包，因此需要导入才能运行该项目
 
