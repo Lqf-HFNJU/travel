@@ -16,7 +16,7 @@
 
 ##### 还需要导入相关的数据
 
-  * mysql导入travel.sql文件后再修改resources/druid.properties，配上你自己的数据库~
+  * mysql导入travel.sql文件后再修改resources/druid.properties，配上你自己的数据库
 
 数据库是复制的
 
